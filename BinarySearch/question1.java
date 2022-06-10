@@ -1,6 +1,9 @@
 package com.manav.BinarySearch;
 
 public class question1 {
+
+    // 441. Arranging Coins - leetcode
+    // links - https://leetcode.com/problems/arranging-coins/
     public static void main(String[] args) {
         int n = 78901;
         System.out.println(arrangeCoins1(n));
